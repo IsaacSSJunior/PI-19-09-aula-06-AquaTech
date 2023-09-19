@@ -1,0 +1,23 @@
+body{
+    margin: 0 ;
+}
+
+header{
+    background-color: black;
+}
+
+.container{
+    margin: 0 10% 0 10% ;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid pink;
+}
+
+h1{
+    margin: 0;
+    color: #32b9cd;
+}
+
+ul{
+    color: rgb(255,255,0);
+}
